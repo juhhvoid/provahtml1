@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+div.conteudo {
+    width: 800px;
+    border: 1px solid black;
+    margin: 35px auto 35px auto;
+    padding: 2px;
+    text-align: center;
+    
+}
+
+div.um {
+    display: grid;
+    text-align: center;
+    grid-template-columns: auto auto auto;
+    padding: 30px;
+}
+div.dois {  
+    display: grid;   
+    text-align: center;
+    grid-template-columns: auto auto auto;
+    padding: 30px;
+    
+    
+}
